@@ -1,0 +1,10 @@
+{
+  "name": "Mr. Smart WiFi",
+  "short_name": "Mr Smart WiFi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f6",
+  "theme_color": "#111111",
+  "description": "Mr. Smart WiFi business app for CCTV, networking, sales, marketing, CRM and invoices.",
+  "icons": []
+}
